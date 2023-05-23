@@ -12,6 +12,7 @@ else:
         if a != b and b != c and c != a:
              print("Escaleno")
 
+
    
 #a + b > c`
 #a + c > b`
